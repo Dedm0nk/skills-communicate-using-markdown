@@ -19,3 +19,6 @@ if num == rev:
 else:
     print("Not palindrome")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
